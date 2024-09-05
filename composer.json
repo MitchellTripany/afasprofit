@@ -14,7 +14,6 @@
         "php": ">=7.4",
         "symfony/dependency-injection": "^7.0.0",
         "openlss/lib-array2xml": "~0.0",
-        "drupal/core-plugin": "^9.0|^10.0|^11.0",
         "symfony/finder": "^7.0.0",
         "hanneskod/classtools": "~1.0"
     },
